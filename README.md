@@ -1,3 +1,39 @@
+Written Report (15 points)
+To receive all points, the written report presents a cohesive written analysis that:
+
+Summarizes the analysis (5 points)
+Depending on if a school is a charter or district school zone emphasize on the students over all passing rate and the schools budget
+
+
+
+Draws two correct conclusions or comparisons from the calculations (10 points)Written Report (15 points)
+To receive all points, the written report presents a cohesive written analysis that:
+Depending on if a school is a charter or district school zone emphasize on the students over all passing rate and the schools budget
+Summarizes the analysis (5 points)
+
+Draws two correct conclusions or comparisons from the calculations (10 points)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # pandas-challenge
 # # PyCity Schools Analysis
 # 
